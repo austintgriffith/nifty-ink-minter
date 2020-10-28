@@ -1,0 +1,22 @@
+{
+  "name": "nifty-ink-minter",
+  "version": "1.0.0",
+  "description": "mint nifty.ink NFTs to a list of addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austintgriffith/nifty-ink-minter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austintgriffith/nifty-ink-minter/issues"
+  },
+  "homepage": "https://github.com/austintgriffith/nifty-ink-minter#readme",
+  "dependencies": {
+    "ethers": "^5.0.19"
+  }
+}
