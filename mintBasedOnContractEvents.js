@@ -24,7 +24,7 @@ const pk = "0xXXXXXX____YOUR___XXXXXX___PK__XXXXXXXXXXXX___HERE_____XXXXX"
 // this contract is on mainnet but we will be minting nifties on xdai
 //
 // our provider for mainnet:
-const someContractProvider = new ethers.providers.JsonRpcProvider("https://mainnet.infura.io/v3/b83784c3e679479a867520aa047f1532")
+const someContractProvider = new ethers.providers.JsonRpcProvider("https://mainnet.infura.io/v3/https://mainnet.infura.io/v3/460f40a260564ac4a4f4b3fffb032dad")
 
 // use etherscan to get the address and ABI of the contract you want to listen to
 //
